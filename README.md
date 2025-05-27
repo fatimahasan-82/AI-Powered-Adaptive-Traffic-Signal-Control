@@ -67,6 +67,9 @@
 
 ## 📸 Screenshots
 
+![image alt](https://github.com/fatimahasan-82/AI-Powered-Adaptive-Traffic-Signal-Control/blob/854074ea1b11fcc1d880b480b90ed62f01ce6b7d/Screenshot%202025-05-27%20153729.png)
+![image alt](https://github.com/fatimahasan-82/AI-Powered-Adaptive-Traffic-Signal-Control/blob/854074ea1b11fcc1d880b480b90ed62f01ce6b7d/Screenshot%202025-05-27%20153810.png)
+![image alt](https://github.com/fatimahasan-82/AI-Powered-Adaptive-Traffic-Signal-Control/blob/854074ea1b11fcc1d880b480b90ed62f01ce6b7d/Screenshot%202025-05-27%20153827.png)
 
 
 ## 📄 License
