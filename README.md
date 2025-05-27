@@ -1,7 +1,3 @@
-Certainly! Based on the information available from the GitHub repository [fatimahasan-82/AI-Powered-Adaptive-Traffic-Signal-Control](https://github.com/fatimahasan-82/AI-Powered-Adaptive-Traffic-Signal-Control), here's a comprehensive `README.md` file that outlines the project's objectives, features, setup instructions, and more:
-
----
-
 # AI-Powered Adaptive Traffic Signal Control
 
 ## 🚦 Overview
